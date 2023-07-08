@@ -2,7 +2,7 @@
 
 I made this mini portfolio for those who want a direct simplicity for their portfolio. With this you can showcase your projects and skills.
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+Link to portfolio: https://norsed.netlify.app/
 
 Tech used: HTML, CSS, JavaScript
 
@@ -15,7 +15,7 @@ Tech used: HTML, CSS, JavaScript
 - Minimalistic
 
 
-If you want change or customize this portfolio for your future use, just go to Link: https://github.com/triaxis1337/responsive-minimal-portfolio
+If you want change or customize this portfolio for your future use, just go to Link: https://github.com/triaxis1337/mini-portfolio
 
 Have a nice day, fellow Dev!
 
