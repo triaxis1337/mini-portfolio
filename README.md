@@ -15,7 +15,8 @@ Tech used: HTML, CSS, JavaScript
 - Minimalistic
 
 
-If you want change or customize this portfolio for your future use, just go to Link: https://github.com/triaxis1337/mini-portfolio
+If you want to change or customize this portfolio for your future use, just go to Link: https://github.com/triaxis1337/mini-portfolio
+for the code.
 
 Have a nice day, fellow Dev!
 
